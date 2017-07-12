@@ -3,5 +3,6 @@
 </p>
 
 # CryptoIsland Wiki
-
-[Find the Wiki here](https://github.com/CryptoIsland/Wiki/wiki)
+* [Wiki main page](https://github.com/CryptoIsland/Wiki/wiki)
+* [FAQ](https://github.com/CryptoIsland/Wiki/wiki)
+* [Whitepaper](https://github.com/CryptoIsland/Wiki/wiki)
