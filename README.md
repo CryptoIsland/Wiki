@@ -2,7 +2,7 @@
 <img src="https://pbs.twimg.com/profile_images/885144034007814148/aykps6Rb_200x200.jpg">
 </p>
 
-# CryptoIsland Wiki
+### CryptoIsland Wiki
 * [Wiki main page](https://github.com/CryptoIsland/Wiki/wiki)
 * [FAQ](https://github.com/CryptoIsland/Wiki/wiki)
 * [Whitepaper](https://github.com/CryptoIsland/Wiki/wiki)
