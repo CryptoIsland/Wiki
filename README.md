@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://pbs.twimg.com/profile_images/883296839952420864/3KyvWfzF_400x400.jpg">
+<img src="https://pbs.twimg.com/profile_images/885144034007814148/aykps6Rb_200x200.jpg">
 </p>
 
 # CryptoIsland Wiki
