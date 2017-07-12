@@ -3,4 +3,4 @@
 </p>
 
 ## CryptoIsland Wiki
-* [Visit Wiki page to learn more about CryptoIsland](https://github.com/CryptoIsland/Wiki/wiki)
+* [Visit the Wiki pages to learn more about CryptoIsland](https://github.com/CryptoIsland/Wiki/wiki)
